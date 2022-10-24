@@ -1,0 +1,15 @@
+/Users/akhmed/mdp/HomeWork6.2/task2/bin/Debug/net6.0/task2
+/Users/akhmed/mdp/HomeWork6.2/task2/bin/Debug/net6.0/task2.deps.json
+/Users/akhmed/mdp/HomeWork6.2/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/akhmed/mdp/HomeWork6.2/task2/bin/Debug/net6.0/task2.dll
+/Users/akhmed/mdp/HomeWork6.2/task2/bin/Debug/net6.0/task2.pdb
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.dll
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.pdb
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/akhmed/mdp/HomeWork6.2/task2/obj/Debug/net6.0/ref/task2.dll
